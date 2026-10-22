@@ -1,0 +1,11 @@
+Checklist de auditoría
+
+[ ] La página de inicio carga correctamente.
+[ ] El test se puede completar de principio a fin.
+[ ] El sistema entrega resultados coherentes con las respuestas.
+[ ] Las recomendaciones de carreras funcionan.
+[ ] Los resultados se guardan y se recuperan correctamente.
+[] Los certificados se generan y se pueden verificar.
+[ ] La función de IA está conectada y produce resultados reales.
+[ ] La función blockchain realiza una operación verificable.
+[ ] Una persona externa puede usar la plataforma sin ayuda.
