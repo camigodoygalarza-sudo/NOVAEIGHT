@@ -1,0 +1,159 @@
+NOVAEIGHT 
+
+Semana 02: Definition of Done y North Star Metric
+
+Programa: EIGHT ACADEMY · EIGHT LABS
+Sprint: S0 · Diagnóstico y arranque
+Sesión: 02
+Periodo: 5 al 9 de octubre de 2026
+Estado: En proceso de validación
+
+⸻
+
+1. Objetivo de la semana
+
+Definir las condiciones verificables que NOVAEIGHT debe cumplir para considerarse listo para el lanzamiento, seleccionar una métrica principal de valor para el usuario e identificar las brechas técnicas, de usuario, regulación y negocio que deben resolverse.
+
+2. Descripción del producto
+
+NOVAEIGHT es una plataforma de orientación vocacional que busca ayudar a los estudiantes a identificar sus habilidades, intereses y posibles carreras profesionales.
+
+La aplicación presenta un test vocacional de 16 preguntas, un perfil basado en el modelo RIASEC, seis dimensiones de habilidades, recomendaciones de carreras y universidades, seguimiento del progreso y funciones relacionadas con certificados blockchain.
+
+Aplicación: https://nova-pi-black.vercel.app/
+
+3. Definition of Done (DoD) de lanzamiento
+
+El producto se considerará listo para el lanzamiento cuando cumpla los siguientes criterios verificables:
+
+1. Funcionamiento autónomo: un usuario puede completar el flujo principal de la aplicación sin intervención manual del equipo.
+2. Prueba con usuarios reales: al menos cinco estudiantes completan el flujo de evaluación y se documentan los resultados.
+3. Perfil vocacional: el sistema genera correctamente el perfil RIASEC y presenta las seis dimensiones anunciadas.
+4. Recomendaciones: se muestran tres carreras recomendadas con porcentajes de compatibilidad coherentes con las respuestas.
+5. Universidades: las recomendaciones académicas pueden contrastarse con fuentes oficiales.
+6. Blockchain: se verifica la generación del certificado y, cuando se afirma que está registrado, se comprueba la transacción correspondiente.
+7. Privacidad y soporte: los términos y la política de privacidad son accesibles, se revisa el tratamiento de datos personales y existe un canal definido para reportar incidencias.
+8. Medición semanal: se dispone de un registro que permite calcular las orientaciones vocacionales completadas por semana.
+
+Cada criterio debe contar con evidencia de verificación antes de aprobar formalmente la DoD.
+
+Validación del profesor líder: Pendiente.
+Firma del equipo: Pendiente.
+
+4. Métricas candidatas
+
+Métrica 1: Orientaciones vocacionales completadas
+
+Número de estudiantes únicos que completan el test y reciben resultados válidos durante una semana.
+
+Métrica 2: Utilidad de las recomendaciones
+
+Porcentaje de estudiantes encuestados que consideran útiles sus resultados y seleccionan al menos una carrera para investigar.
+
+Fórmula:
+
+Estudiantes que cumplen ambos criterios ÷ estudiantes encuestados × 100.
+
+Métrica 3: Retorno semanal con actividad útil
+
+Porcentaje de usuarios activos durante la semana anterior que regresan y completan una actividad relevante.
+
+Fórmula:
+
+Usuarios que regresan y completan una actividad útil ÷ usuarios activos de la semana anterior × 100.
+
+5. North Star Metric elegida
+
+Número de estudiantes únicos que completan una orientación vocacional por semana.
+
+Justificación
+
+Esta métrica representa el valor principal que NOVAEIGHT busca entregar: ayudar a los estudiantes a descubrir su perfil vocacional y explorar opciones académicas y profesionales.
+
+Cumple los criterios de selección porque:
+
+* Se relaciona directamente con el resultado principal que recibe el usuario.
+* Puede medirse semanalmente mediante registros de evaluaciones completadas.
+* Permite observar si aumenta la cantidad de estudiantes que terminan el proceso de orientación.
+* Evita depender de métricas de vanidad, como seguidores, likes o descargas.
+
+La métrica deberá complementarse con pruebas de utilidad para comprobar que el aumento de orientaciones también representa una experiencia valiosa.
+
+Validación del mentor: Pendiente.
+
+6. Mapa de gaps
+
+6.1. Gap técnico
+
+Situación: Es necesario comprobar el funcionamiento integral del test, el cálculo del perfil, las recomendaciones, el historial y las funciones blockchain.
+
+Acciones:
+
+* Ejecutar pruebas funcionales del flujo completo.
+* Verificar la coherencia de los resultados con distintos casos de prueba.
+* Comprobar el almacenamiento de evaluaciones y las transacciones blockchain anunciadas.
+* Documentar errores y correcciones.
+
+6.2. Gap de usuario
+
+Situación: Se necesita validar si los estudiantes comprenden los resultados y consideran útiles las recomendaciones.
+
+Acciones:
+
+* Realizar entrevistas sin sesgo.
+* Observar pruebas de uso.
+* Recoger comentarios sobre claridad y utilidad.
+* Registrar resultados para identificar mejoras.
+
+6.3. Gap de regulación
+
+Situación: La aplicación solicita información del estudiante y anuncia funciones relacionadas con blockchain. Es necesario revisar el tratamiento de los datos personales y los riesgos de los registros inmutables.
+
+Acciones:
+
+* Revisar la normativa ecuatoriana aplicable de protección de datos personales.
+* Comprobar la política de privacidad y el consentimiento correspondiente.
+* Revisar los controles de acceso y la gestión de datos de menores.
+* Evitar almacenar datos personales directamente en registros públicos e inmutables.
+
+6.4. Gap de negocio
+
+Situación: Se necesita validar la demanda y determinar cómo mantener la plataforma a largo plazo.
+
+Acciones:
+
+* Estimar los costos de infraestructura y servicios de inteligencia artificial.
+* Identificar posibles instituciones educativas aliadas.
+* Investigar las necesidades de los estudiantes y las instituciones.
+* Evaluar alternativas de sostenibilidad económica.
+
+7. Gap prioritario
+
+La prioridad inicial es el gap técnico, porque el equipo debe demostrar que el flujo principal funciona correctamente y que las evaluaciones completadas pueden registrarse para calcular la North Star Metric.
+
+La validación con usuarios y la revisión de privacidad deben avanzar en paralelo.
+
+8. Evidencias de la semana
+
+* Aplicación publicada: https://nova-pi-black.vercel.app/
+* DoD de lanzamiento: definida; validación pendiente.
+* North Star Metric: seleccionada; validación del mentor pendiente.
+* Mapa de gaps: elaborado.
+* Pruebas funcionales: pendientes de documentar.
+* Entrevistas con estudiantes: pendientes.
+* Revisión de privacidad: pendiente.
+
+9. Próximos pasos
+
+1. Ejecutar las pruebas funcionales del producto.
+2. Validar las recomendaciones con estudiantes.
+3. Revisar privacidad, soporte y funciones blockchain.
+4. Incorporar la DoD y la North Star a la plantilla de sprint.
+5. Obtener la validación del profesor líder y del mentor.
+6. Registrar los resultados en la bitácora de EIGHT LABS.
+
+⸻
+
+Equipo: NOVAEIGHT
+Proyecto: Tu mente crea el futuro.
+Principio de trabajo: Medir el valor entregado al estudiante y validar cada avance con evidencia.
