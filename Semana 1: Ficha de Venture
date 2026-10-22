@@ -1,0 +1,77 @@
+NOVAEIGHT — Ficha de Venture
+
+EIGHT ACADEMY · EIGHT LABS
+Bootcamp de Aceleración · Semana 1
+Sesión 01: Qué es acelerar, de pitch a producto
+
+1. Información general
+
+* Nombre del venture: NOVAEIGHT
+* Slogan: Tu mente crea el futuro.
+* Líder del equipo: Camila Godoy
+* Etapa de desarrollo: MVP demostrativo, pendiente de validación funcional completa.
+* Área: Educación, inteligencia artificial y orientación vocacional.
+* ODS principal: ODS 4, Educación de calidad.
+* ODS complementarios: ODS 8, Trabajo decente y crecimiento económico; ODS 9, Industria, innovación e infraestructura.
+
+2. Problema que buscamos resolver
+
+Muchos estudiantes tienen dificultades para identificar sus habilidades, intereses y preferencias, lo que complica la elección de una carrera universitaria y de su futuro profesional.
+
+NOVAEIGHT busca facilitar este proceso mediante una experiencia digital de orientación vocacional que ayude a los estudiantes a conocerse mejor y explorar áreas académicas y profesionales compatibles con sus características.
+
+3. Nuestra solución
+
+NOVAEIGHT es una plataforma digital que propone combinar inteligencia artificial, análisis de intereses y tecnología blockchain para acompañar a los estudiantes en el descubrimiento de sus habilidades y posibles caminos profesionales.
+
+La propuesta incluye un test de orientación vocacional, perfiles de intereses, sugerencias de carreras y un concepto de seguimiento de logros académicos y personales.
+
+4. Usuarios objetivo
+
+Estudiantes de secundaria que necesitan orientación para identificar sus intereses, explorar carreras y tomar decisiones más informadas sobre su futuro académico y profesional.
+
+5. Estado actual del producto
+
+El proyecto cuenta con una página web de demostración publicada en Vercel:
+
+https://nova-pi-black.vercel.app/
+
+La experiencia pública presenta la propuesta de NOVAEIGHT y un flujo de evaluación vocacional. Sin embargo, la presencia de una función en la interfaz no demuestra por sí sola que todos sus cálculos, recomendaciones, almacenamiento de resultados o certificados funcionen correctamente.
+
+6. Auditoría inicial del MVP
+
+Elementos visibles o presentados en la demostración:
+
+* Página de inicio e identidad de NOVAEIGHT.
+* Presentación del problema y la solución.
+* Acceso al flujo de evaluación vocacional.
+* Solicitud del nombre del estudiante y correo opcional para el certificado.
+* Información sobre inteligencia artificial, blockchain y los ODS.
+
+Elementos pendientes de comprobar:
+
+* Que el test se complete de principio a fin.
+* Que las respuestas produzcan resultados correctos y personalizados.
+* Que las recomendaciones de carreras se generen correctamente.
+* Que los resultados se guarden y puedan recuperarse cuando corresponda.
+* Que la generación y verificación de certificados funcione realmente.
+* Que las funciones anunciadas de inteligencia artificial y blockchain estén integradas y operativas.
+* Que un estudiante pueda utilizar la experiencia sin ayuda del equipo.
+
+7. Nivel NMV inicial
+
+NMV 2 — MVP demostrativo, provisional.
+
+La plataforma tiene una demostración accesible que permite presentar la propuesta y explorar su experiencia. Todavía es necesario comprobar el funcionamiento completo de sus características y observar a usuarios externos utilizándola sin asistencia.
+
+El nivel deberá confirmarse después de realizar la auditoría práctica.
+
+8. Evidencia y próximos pasos
+
+1. Registrar las funciones que se pueden utilizar sin intervención del equipo.
+2. Identificar las funciones que requieren explicación o asistencia.
+3. Documentar las funciones que todavía no existen o no se han validado.
+4. Probar el flujo con estudiantes ajenos al equipo.
+5. Priorizar las mejoras que permitan convertir la demostración en un producto funcional.
+
+Resultado esperado: disponer de un diagnóstico honesto del estado actual de NOVAEIGHT y establecer las prioridades del siguiente sprint.
