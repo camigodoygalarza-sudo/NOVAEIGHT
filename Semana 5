@@ -1,0 +1,113 @@
+NOVA TALENT
+
+BITÁCORA DE DESARROLLO · SEMANA 05
+
+Programa: EIGHT LABS · Aceleradora Eight Academy
+Proyecto: NOVA TALENT
+Sprint: S1
+Semana: 05
+Periodo: 26 al 30 de octubre de 2026
+Etapa: Funcionalidades, priorización y protección de datos
+
+⸻
+
+1. CONTEXTO
+
+Durante esta semana, el trabajo se enfocó en analizar las funcionalidades que podrían formar parte de NOVA TALENT y establecer criterios para organizar su desarrollo.
+
+Después de fortalecer la propuesta de valor y el modelo de negocio, fue necesario comenzar a transformar las ideas del proyecto en características concretas que pudieran implementarse en una plataforma digital.
+
+También se consideraron aspectos relacionados con la privacidad, la protección de datos personales y el uso responsable de la inteligencia artificial.
+
+2. OBJETIVOS
+
+* Identificar las funcionalidades principales de NOVA TALENT.
+* Analizar las características necesarias para una primera versión.
+* Comprender la importancia de priorizar el desarrollo.
+* Revisar la metodología MoSCoW.
+* Considerar la protección de datos desde el diseño del producto.
+* Reconocer los aspectos de seguridad y privacidad que deben contemplarse.
+* Relacionar las funcionalidades con las necesidades de los estudiantes.
+
+3. ACTIVIDADES DESARROLLADAS
+
+3.1. Identificación de funcionalidades
+
+Se analizaron las posibles herramientas que podrían integrar NOVA TALENT, considerando su propósito principal y la experiencia que se busca ofrecer a los estudiantes.
+
+Entre las funcionalidades planteadas se encuentran:
+
+* Registro e inicio de sesión.
+* Creación de perfiles personales.
+* Identificación de intereses y habilidades.
+* Evaluación de preferencias académicas y deportivas.
+* Orientación mediante inteligencia artificial.
+* Recomendaciones de áreas académicas y profesionales.
+* Identificación de oportunidades deportivas.
+* Seguimiento del progreso personal.
+* Visualización de resultados y recomendaciones.
+
+Estas características representan la visión funcional del producto y deben organizarse según su prioridad de implementación.
+
+3.2. Priorización mediante MoSCoW
+
+Se revisó la metodología MoSCoW para comprender cómo organizar las funcionalidades según su importancia.
+
+La metodología contempla cuatro categorías:
+
+* Must Have: funcionalidades indispensables.
+* Should Have: funcionalidades importantes.
+* Could Have: funcionalidades complementarias.
+* Won’t Have: funcionalidades que no se desarrollarán en la versión actual.
+
+Esta metodología permite enfocar los recursos en las características que aportan mayor valor al producto y evitar desarrollar demasiadas funciones simultáneamente.
+
+3.3. Protección de datos personales
+
+Se consideró la importancia de proteger la información de los usuarios, especialmente porque NOVA TALENT está dirigido principalmente a estudiantes.
+
+Se identificaron como referencias y aspectos relevantes:
+
+* Ley Orgánica de Protección de Datos Personales del Ecuador (LOPDP).
+* Consentimiento y transparencia.
+* Tratamiento responsable de información personal.
+* Seguridad de los datos.
+* Privacidad desde el diseño.
+* Uso responsable de inteligencia artificial.
+
+La protección de datos debe formar parte de la planificación tecnológica y funcional de la plataforma.
+
+4. APORTE AL PROYECTO
+
+Esta semana permitió avanzar desde la definición conceptual hacia la organización funcional de NOVA TALENT.
+
+Se identificaron características que podrían formar parte de la plataforma y se reconoció la necesidad de establecer prioridades para construir una primera versión funcional.
+
+Además, se incorporó la privacidad como un elemento fundamental del proyecto, considerando las responsabilidades relacionadas con el tratamiento de información de estudiantes.
+
+5. RESULTADOS Y ENTREGABLES
+
+* Identificación preliminar de funcionalidades.
+* Revisión de la metodología MoSCoW.
+* Criterios iniciales de priorización.
+* Identificación de aspectos relacionados con privacidad.
+* Referencia a la normativa ecuatoriana de protección de datos.
+* Bases para organizar el alcance del MVP.
+
+6. DIFICULTADES Y ASPECTOS POR MEJORAR
+
+Se identificó la necesidad de diferenciar las funcionalidades esenciales de aquellas que pueden desarrollarse en etapas posteriores.
+
+También se requiere profundizar en los criterios de privacidad y definir cómo se gestionará la información de los usuarios.
+
+La clasificación definitiva de funcionalidades y el backlog deben consolidarse antes de cerrar el alcance del MVP.
+
+7. CONCLUSIÓN
+
+La semana 05 permitió establecer una visión más concreta de las características que podría integrar NOVA TALENT.
+
+El análisis de funcionalidades y la metodología MoSCoW aportaron criterios para organizar el desarrollo, mientras que la revisión de privacidad permitió incorporar una perspectiva de responsabilidad tecnológica.
+
+8. PROYECCIÓN
+
+Avanzar hacia el diseño de la arquitectura tecnológica, identificar los componentes principales de la plataforma y establecer cómo se conectarán las funcionalidades para construir el núcleo del producto.
