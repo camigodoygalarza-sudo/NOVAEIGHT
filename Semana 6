@@ -1,0 +1,121 @@
+NOVA TALENT
+
+BITÁCORA DE DESARROLLO · SEMANA 06
+
+Programa: EIGHT LABS · Aceleradora Eight Academy
+Proyecto: NOVA TALENT
+Sprint: S2 · Construir el núcleo
+Semana: 06
+Periodo: 2 al 6 de noviembre de 2026
+Etapa: Arquitectura tecnológica y construcción del núcleo
+
+⸻
+
+1. CONTEXTO
+
+Durante esta semana, NOVA TALENT avanzó hacia una etapa enfocada en la arquitectura tecnológica y la preparación de la construcción del producto.
+
+Después de trabajar en la propuesta de valor, el modelo de negocio y las funcionalidades, el siguiente paso fue analizar cómo se organizaría internamente la plataforma.
+
+El propósito fue comprender las alternativas tecnológicas disponibles, identificar los componentes principales del sistema y establecer un flujo central que representara el funcionamiento de NOVA TALENT.
+
+Esta etapa representa la transición entre la planificación del producto y su futura implementación tecnológica.
+
+2. OBJETIVOS
+
+* Comprender la importancia de la arquitectura tecnológica.
+* Identificar los componentes principales de la plataforma.
+* Analizar las alternativas de desarrollo.
+* Comparar herramientas no-code, low-code y programación.
+* Diseñar el flujo principal de funcionamiento.
+* Organizar la estructura inicial del producto.
+* Preparar el entorno de trabajo para la construcción tecnológica.
+
+3. ACTIVIDADES DESARROLLADAS
+
+3.1. Análisis de alternativas tecnológicas
+
+Se analizaron tres enfoques principales para desarrollar NOVA TALENT:
+
+* No-code: herramientas que permiten construir aplicaciones sin programación tradicional.
+* Low-code: plataformas que combinan herramientas visuales con código.
+* Código: desarrollo mediante lenguajes de programación que permiten personalizar el funcionamiento del sistema.
+
+Se consideraron factores como la complejidad del producto, el tiempo disponible, los conocimientos del equipo y las posibilidades de crecimiento de la plataforma.
+
+3.2. Organización de la arquitectura
+
+Se planteó una estructura inicial para comprender cómo se relacionarían los diferentes componentes de NOVA TALENT.
+
+La arquitectura debe permitir organizar:
+
+* Interfaz del usuario.
+* Gestión de perfiles.
+* Procesamiento de información.
+* Integración de inteligencia artificial.
+* Generación de recomendaciones.
+* Visualización de resultados.
+* Gestión y protección de datos.
+
+Esta organización busca facilitar el desarrollo progresivo del producto.
+
+3.3. Diseño del flujo núcleo
+
+Se planteó representar el funcionamiento principal de la plataforma mediante cuatro bloques.
+
+Bloque 1. Entrada del usuario
+
+El estudiante ingresa a la plataforma y proporciona la información necesaria para crear su perfil.
+
+Bloque 2. Procesamiento de información
+
+El sistema organiza los intereses, habilidades y preferencias académicas y deportivas del estudiante.
+
+Bloque 3. Análisis y orientación
+
+La inteligencia artificial se plantea como una herramienta para analizar la información y generar recomendaciones relacionadas con el perfil del estudiante.
+
+Bloque 4. Resultados
+
+El usuario puede visualizar recomendaciones y oportunidades relacionadas con sus intereses, habilidades y objetivos.
+
+3.4. Preparación de la construcción tecnológica
+
+Se reconoció la importancia de mantener una estructura organizada para facilitar el desarrollo y la futura integración de los diferentes componentes.
+
+La arquitectura debe ser comprensible, escalable y suficientemente sencilla para que el equipo pueda trabajar sobre ella.
+
+4. APORTE AL PROYECTO
+
+La semana 06 representó un avance importante porque permitió comenzar a traducir la propuesta de NOVA TALENT en una estructura tecnológica.
+
+El diseño del flujo núcleo ayudó a comprender cómo podría funcionar la plataforma desde el ingreso de información hasta la presentación de recomendaciones.
+
+También permitió identificar los componentes que deberán conectarse durante la implementación.
+
+5. RESULTADOS Y ENTREGABLES
+
+* Análisis de alternativas de desarrollo.
+* Identificación de componentes tecnológicos.
+* Estructura conceptual de la arquitectura.
+* Diseño del flujo núcleo de cuatro bloques.
+* Organización inicial del funcionamiento de la plataforma.
+* Preparación para la siguiente etapa de desarrollo.
+
+6. DIFICULTADES Y ASPECTOS POR MEJORAR
+
+Uno de los principales retos es seleccionar herramientas tecnológicas que permitan desarrollar el producto sin generar una estructura innecesariamente compleja.
+
+También será importante asegurar que los componentes puedan integrarse correctamente y que la arquitectura permita incorporar nuevas funcionalidades en el futuro.
+
+7. CONCLUSIÓN
+
+La semana 06 permitió establecer las bases de la arquitectura tecnológica de NOVA TALENT.
+
+El proyecto comenzó a pasar de una planificación centrada en la idea y sus funcionalidades hacia una organización enfocada en cómo construir el producto.
+
+El flujo núcleo representa una referencia para continuar con la implementación y conectar los diferentes componentes de la plataforma.
+
+8. PROYECCIÓN
+
+Continuar con la preparación del entorno de desarrollo, utilizar herramientas de control de versiones y avanzar hacia una primera versión que pueda compartirse mediante una URL o presentarse como prototipo.
